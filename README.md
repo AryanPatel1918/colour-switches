@@ -1,8 +1,13 @@
-# 🌈 Colour Switches
+# 🌈 Light Switches
 
-A React app featuring 8 coloured lights that can be toggled on and off individually, with buttons to turn all lights on or off.
+A React app featuring 8 coloured light switches that can be toggled on and off individually, with buttons to turn all lights on or off.
 
 ---
+
+## 🌐 Live Demo
+
+Check out the live app here:  
+🔗 **[light-switches.netlify.app](https://light-switches.netlify.app/)**
 
 ## 🚀 Features
 
